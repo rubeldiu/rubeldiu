@@ -20,6 +20,6 @@ languages and tools such as C#, #Asp.net Core , #ReactJS,
 
 ![](https://img.shields.io/badge/Code-.net-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
 
 
