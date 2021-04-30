@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Md. Hamidul Islam. 👋🤓</h2>
-<p align="center">Software Engineer with over 4+ years experience providing
+<p align="center">Software Engineer with over 6+ years experience providing
 programming and database expertise. I merge a passion for
 usability and user experience with technical knowledge to create
 cool digital experiences. My repertoire includes programming
