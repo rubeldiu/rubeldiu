@@ -10,10 +10,11 @@ languages and tools such as C#, #Asp.net Core , #ReactJS,
 </p>
 
 - 🔭 I’m currently working on ...Refactored.dk
-- 🌱 I’m currently learning ...ReactJs, NodeJs, ExpressJs, Asp.net Core WebApi 
+- 🌱 I’m currently learning ...ReactJs, NodeJs,Typescript, ExpressJs, Asp.net Core WebApi 
 - 🤔 I’m looking for help with ... ReactJS and C#.net
--  📫 Where to find me 
--
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 📫 Where to find me 
+
 - [LinkedIn](https://www.linkedin.com/in/md-hamidul-islam-16aa04b/) 👨💼
 - [Website](hamidul.dk) 😏🔗
 - [Gmail] (hamiduldiu@gmail.com)
