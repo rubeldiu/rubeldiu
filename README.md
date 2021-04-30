@@ -45,7 +45,7 @@ languages and tools such as C#, #Asp.net Core , #ReactJS,
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rubeldiu&show_icons=true&hide_border=true" />
+  <img align="left" alt="hamidul's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=rubeldiu&show_icons=true&hide_border=true" />
 
 </details>
 
